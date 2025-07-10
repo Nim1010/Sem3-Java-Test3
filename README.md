@@ -1,7 +1,7 @@
 Name: Nimesh Neupane
 Student ID: 23090879
 
-This lab project focuses on building a complete JavaFX desktop application for a pizza ordering system. The application allows users to enter customer details, select pizza size, input the number of toppings, and perform full CRUD (Create, Read, Update, Delete) operations.
+This lab project focuses on building a complete JavaFX desktop application for a pizza ordering system. The application allows users to enter customer details, select pizza size, input the number of toppings, and perform full CRUD (Create, Read, Update, Delete) operations. The total bill is calculated dynamically using a set pricing model and HST, and all order data is stored in a MySQL database.
 
 Contributions
 I personally worked on:
